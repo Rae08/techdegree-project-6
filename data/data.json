@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "Random Quote Generator",
+      "description": "An app that generates a random quote every 30 seconds",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://rae08.github.io/techdegree-project-1/",
+      "github_link": "https://github.com/Rae08/techdegree-project-1",
+      "image_urls": ["/images/proj1_large.png", "/images/proj1_small.jpg"]
+    },
+    {
+      "id": 2,
+      "project_name": "List Pagination and Filtering",
+      "description": "A list of students, with the abilty to filter by name",
+      "technologies": ["JavaScript", "DOM manipulation", "Pagination"],
+      "live_link": "https://rae08.github.io/techdegree-project-2/",
+      "github_link": "https://github.com/Rae08/techdegree-project-2",
+      "image_urls": ["/images/proj2_large.png", "/images/proj2_small.jpg"]
+    },
+    {
+      "id": 3,
+      "project_name": "Full Stack Conf Registration Form" ,
+      "description": "Form created for registration to a conference",
+      "technologies": ["HTML Forms", "JQuery", "JavaScript"],
+      "live_link": "https://rae08.github.io/techdegree-project-3/" ,
+      "github_link": "https://github.com/Rae08/techdegree-project-3",
+      "image_urls": ["/images/proj3_large.png", "/images/proj3_small.jpg"]
+    },
+    {
+      "id": 4,
+      "project_name": "Phrase Hunter",
+      "description": "A game, similar to Hangman, where you have 5 chances to guess enough letters to solve the Phrase",
+      "technologies": ["JavaScript", "OOP"],
+      "live_link": "https://rae08.github.io/techdegree-project-4/",
+      "github_link": "https://github.com/Rae08/techdegree-project-4",
+      "image_urls": ["/images/proj4_large.png", "/images/proj4_small.jpg"]
+    },
+    {
+      "id": 5,
+      "project_name": "Employee Directory",
+      "description": "An employee directory",
+      "technologies": ["JavaScript", "FETCH API"],
+      "live_link": "https://rae08.github.io/techdegree-project-5/",
+      "github_link": "https://github.com/Rae08/techdegree-project-5",
+      "image_urls": ["/images/proj5_large.png", "/images/proj5_small.jpg"]
+    }
+  ]
+}
